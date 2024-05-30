@@ -35,7 +35,7 @@
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
   <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
-  <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
+  <a href="#rocket-languages">Languages</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
@@ -50,23 +50,22 @@ Describe your project
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
+:heavy_check_mark: Add Task;\
+:heavy_check_mark: Finish Task;\
+:heavy_check_mark: Delete Task;\
 
-## :rocket: Technologies ##
+## :rocket: Languages ##
 
 The following tools were used in this project:
 
-- [Expo](https://expo.io/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
+- [VueJS](https://vuejs.org/)
+- [JavaScript](https://developer.mozilla.org/fr/docs/Web/JavaScript)
+- [HTML](https://developer.mozilla.org/fr/docs/Web/HTML)
+- [SCSS](https://sass-lang.com/)
 
 ## :white_check_mark: Requirements ##
 
-Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
+Before starting :checkered_flag:, you need to have [Git](https://git-scm.com), [Yarn](https://yarnpkg.com/), [Quasar](https://quasar.dev/) and [Node](https://nodejs.org/en/) installed.
 
 ## :checkered_flag: Starting ##
 
@@ -91,7 +90,7 @@ $ yarn start
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 
-Made with :heart: by <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">{{YOUR_NAME}}</a>
+Made with :heart: by <a href="https://github.com/thomasl28500" target="_blank">thomasl28500</a>
 
 &#xa0;
 
