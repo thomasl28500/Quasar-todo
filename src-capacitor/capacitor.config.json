@@ -1,0 +1,5 @@
+{
+  "appId": "org.quasar.todo.app",
+  "appName": "Quasar App",
+  "webDir": "www"
+}
