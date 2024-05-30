@@ -46,13 +46,13 @@
 
 ## :dart: About ##
 
-Describe your project
+My first mobile application that serves to have a list of tasks to do.
 
 ## :sparkles: Features ##
 
 :heavy_check_mark: Add Task;\
 :heavy_check_mark: Finish Task;\
-:heavy_check_mark: Delete Task;\
+:heavy_check_mark: Delete Task;
 
 ## :rocket: Languages ##
 
